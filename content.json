@@ -3403,7 +3403,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Sophia": "Want to go swimming after we eat?$1#$e#I have a new bikini.$4"
+        "Sophia": "Yemekten sonra yüzmeye gitmek ister misin?$1#$e#Yeni bir bikini aldım.$4"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3415,7 +3415,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Sophia": "The jellyfish are so pretty!$1#$b#I love watching them every year.$9",
+        "Sophia": "Bu denizanaları çok tatlı!$1#$b#Her yıl onları izlemeyi çok seviyorum.$9",
       }
     },
 	
