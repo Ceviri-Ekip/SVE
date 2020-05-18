@@ -800,35 +800,35 @@
    "AndyAncientSeeds": "@,^Ormanın derinliklerinde yemiş toplarken, bunları buldum. Ne oldukların tam olarak emin değilim, ama onları yetiştirmek için benden daha deneyimli olduğunu düşünüyorum. Büyüdüklerinde neye dönüşeceklerini çok merak ediyorum.^^  -Andy %item object 114 5 %%",
    "SusanIntroduction": "Merhaba, @^^Ben Susan. Lewis, kasabaya gelen yeni çiftçinin sen olduğundan bahsetti. Dağdaki çiftliğimde mahsur kaldığım için yüz yüze merhaba deme şansım olmadı! Umarım Joja'nın yaptığı şu dağınıklık bir an önce temizlenir, yoksa yakında çıldırmaya başlayacağım. Seninle tanışmak ve o eski çiftliğin nasıl şekillendiğini görmek için sabırsızlanıyorum.^^  -Susan",
    "SusanFertilizer": "Merhaba @!,^^Bunlar yaptığım en iyi gübrelerden. Lütfen, lezzetli bir şeyler büyüt ve benimle paylaşmayı unutma!^^  -Susan %item object 369 20 %%",
-   "SusanMelonSeeds": "@!^^My melons are growing like wildfire this year! Here's some extra seeds I got when I popped a number of them in my seedmaker. Don't go trying to compete with me for the melon market though... I'll win!^^  -Susan %item object 479 5 %%",
-   "VictorDewey": "Dear @,^^I'm writing to thank you for listening to me in the graveyard. I know conversations like that can be stressful. If Dewey ever returns, I know he'll be just as happy to have you for a friend as I am.^^  Sincerely, Victor",
-   "OliviaWine": "Dear @,^^The market went my way and I cashed out some of my shares for a huge windfall! To celebrate, I ordered a case of my favorite wine, and I wanted to share a few bottles with you. Let's have a glass together soon!^^  -Olivia %item object 348 5 %%",
-   "OliviaCellar": "Dear @,^^I wanted to thank you for being such a sweetheart and listening to me the other day. I know I can get a little maudlin when I've had a few glasses. Next time we have a drink, I'll tell you about some of the marvelous places I've visited. It's easy to forget there's a world outside of the valley sometimes, but I have plenty of stories to share.^^  All my love, Olivia",
-   //CUT CONTENT. You found a secret! ctrl + f AbigailJunimo to find a cut event "AbigailJunimo": "Hi @,^^I'm still processing what we talked about the other day. I've got more questions than answers. I can't believe that I'm not the only one. I know you won't, but please don't mention this to anyone. I think that this secret just has more secrets underneath it, and I'm not sure I'm ready to turn over all the rocks in my life. Let's talk more soon.^^  -Abby",
-   "GusSophia": "Hi @,^^Just wanted to drop you a quick line to ask you not to mention what I told you to Sophia. I trust you to be discreet. It's important we're on the same page. Looking forward to seeing you at the saloon soon.^^  -Gus",
-   "HaleyTalk": "@,^^Thanks for being kind the other day. I was totally freaking out and you were super patient. I talked to Emily and she's being super helpful and understanding too. I know I can be a  real brat sometimes. We should talk again soon.^^  -Haley",
-   "KentSummit": "Hey @,^^Sorry again for getting so worked up the other day. I wanted to let you know I've started talking to a professional about this. Ever since I came back, I never know what'll set me off. It's time I get my life in order.^^  -Kent",
-   "PierreSVERebate": "@,^^Thanks to you and the quality produce you've been shipping, my store's business is booming. Along with our regular rebates, I wanted to send you a special bonus. Thanks for being such a good customer and contributor to our small community. It's people like you who keep local businesses alive.^^  -Pierre %item money 2000 5001 %%",
-   "JojaRockslideNotice": "To our valued JojaMart customers:^^Please be advised that the landslide blockage near the railroad will be cleared using explosives tomorrow morning. Avoid the area in case of falling rocks. Joja Co. is not responsible for any damage incurred to people or property in the vicinity.^^JojaMart: We Value Your Business",
-   "SVEadvertisement1": "Dear resident:^^Our records indicate that you may not have a membership at JojaMart. Did you know that Joja has consistently scored top in the industry for quality and value? A membership may seem like a big investment, but it unlocks so much - it's a real lifechanger! Join today, and become part of the Joja family.^^JojaMart: We Value Your Business",
-   "SVEadvertisement2": "Dear resident:^^In our time in STARDEW VALLEY, Joja has made an effort to become a contributing member of the community. But we can't do it without your help! If you choose to shop at Joja competitors such as PIERRE'S GENERAL STORE, you won't have the same assurance of quality and consistency. And without your business, we won't be able to afford to contribute as much as we'd like to local charities.^^^^Shop at JojaMart and help keep your community great!^^JojaMart: We Value Your Business",
-   "SVEadvertisement3": "Is work stressing you out? Why not take a trip to the Fern Islands? The Islands are a bustling center of commerce, famous for ring fruit! Even those on a tight budget will find plenty to enjoy! From the sparkling-clean beaches to lush tropical forests, the Fern Islands are a natural oasis that appeals to beachgoers, birdwatchers, and appreciators of nature from all walks of life. Come chase your bliss on the Fern Islands!^^This advertisement paid for by the Fern Islands Bureau of Tourism.",
-   "SVEadvertisement4": "Getting sick of watering crops? Upgraded tools still not doing the job? Running a farm is hard work. Consider hiring some farmhands to help! Especially in high-output seasons like the fall, having a few spare folks around can be invaluable for saving time. Plus, you help create jobs for your local community. Check your local bulletin board to see if anyone's looking for work!",
-   "SVEadvertisement5": "ON SALE FOR A LIMITED TIME:^^Special yeast starter with nutrients designed to optimize wine fermentation from a quality-controlled yeast ranch. Has produced award-winning wine consistently since the strain was started almost twenty years ago. Inquiries welcome at Sunshine Vineyard.",
-   "SVEadvertisement6": "Are you homebrewing beer? Fermenting your own grapes? Sick of your pricy liquids leaking or drying up in low-quality storage? Try hardwood barrels! They don't leak, they naturally repel liquids, and they're almost completely immune to temperature changes, so no more nasty cracks. Craft them yourself, or stop by Grampleton and pick some up from one of our many talented artisans!",
-   "robinKitchenLetter": "Dear Farmer @,^^You might need some more space someday! That's where I can help. If you bring me some raw materials and pay a fee, I can expand your house. The first expansion I offer includes a kitchen. With a kitchen, you'll be able to cook any recipes you've learned!^^Anyway, I hope you're starting to feel at home in Stardew Valley!^^   Your local carpenter,^   Robin",
-   "JasThankYouLetter": "To Farmer @,^^Aunt Marnie said I needed to write a thank you letter. So... thanks for finding me in the forest and taking me back home. I won't go that far in the forest again.^^  -Jas",
-   "winter_7": "Dear @,^^Tomorrow we're all gathering by Andy's house and walking to the fishing spot in the forest for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9 AM and 2 PM if you'd like to participate.^  -Mayor Lewis",
-   "OliviaDatingLetter": "Dear @,^^I've been having feelings about our relationship we just started. I need to tell you some things. Can you visit me at my residence when you have a chance?^^  -Olivia",
-   "OliviaPartyLetter": "Hi honey,^^I'm throwing a house party tonight at my residence. Most of the townsfolk will be there, along with my special guest: the governor!! I would absolutely love you to come, @. The party starts at 6:00PM. Don't be late!^^  -Your love, Olivia",
-   "MarlonLetterCherryBomb": "@,^^The mines are dangerous. These cherry bombs will help during your expeditions.^^Be careful.^^   -Marlon %item object 286 5 %%",
-   "MarlonLetterCherryBombX": "@,^^We received an extra shipment of supplies from Castle Village. I believe you can make good use of these. Good luck.^^  -Marlon %item object 286 10 %%",
-   "MarlonLetterBomb": "@,^^Your assistance in monster eradication has been most helpful to our efforts in protecting the valley. These bombs will help you on your adventures. Stay safe.^^  -Marlon %item object 287 10 %%",
-   "MarlonLetterMegaBomb": "@,^^The guild received another shipment of weapons from Castle Village. These bombs pack a punch. Don't stand too close to them once ignited.^^  -Marlon %item object 288 10 %%",
-   "MarlonLetterPotions": "@,^^Camilla, the witch of Castle Village, supplied 30 elixers to the guild. This is one of her finest brews yet. I'm mailing you half of them. These will assist in your expeditions. Good luck.^^  -Marlon %item object 773 15 %%",
-   "ShrineOfIllusionsLetter": "Greetings @,^^You've proven your trustworthiness. I would like to propose I teach you some basic magic. Visit me in my chambers at your earliest convenience.^^   -M. Rasmodius",
-   "AndyPictureLetter": "Hey farmer,^^Found something in the midst of organizin' my house. Drop on by and I'll show ya! I think you'll enjoy it.^^   -Andy",
-   "SophiaThankYouLetter": "Hey you,^^Thanks for helping me restore my parents' room. I couldn't have done it without you, especially with the heavy stuff! I know it's strange I packed everything up and moved it all back... I suppose it was a change of heart.^Enclosed is a bottle of my finest aged Blue Moon wine. Thanks, silly!^^  -Sophia %item object {{spacechase0.JsonAssets/ObjectId:Aged Blue Moon Wine}} 1 %%",
+   "SusanMelonSeeds": "@!^^Bu yıl kavunlarım aşırı büyüdü! Tohum yapıcıya ürettiğim fazladan bir kaç tohumu sana gönderdim.Kavun işinde benimle rakip olmaya kalkışma ama ...Ben kazanırım!^^  -Susan %item object 479 5 %%",
+   "VictorDewey": "Sevgili @,^^Bunu mezarlıkta beni dinlediğin için yazıyorum. Bu tip konuşmaların stresli olduğunu biliyorum.Eğer Dewey geri dönerse, O da benim gibi senin gibi bir arkadaşa sahip olduğu için mutlu olacaktır.^^  Sevgilerimle, Victor",
+   "OliviaWine": "Sevgili @,^^Bugün hisse işinde fazlaca para kazandım! Kutlamak için, Bir kasa şarap sipariş ettim bir şişesini seninle paylaşmak istiyorum. Haydi gel içelim!^^  -Olivia %item object 348 5 %%",
+   "OliviaCellar": "Sevgili @,^^Geçtiğimiz gün beni dinlediğin için sana teşekkür etmek istedim.Bir kaç kadeh içtikten sonra tam bir içip ağlayan tip olduğumu biliyorum. Next time we have a drink, Sana gezdiğim bir kaç inanılmaz yeri anlatayım. Vadinin dışında bir dünya olduğunu unutmak kolay ama paylaşacak bir sürü hikayem var.^^  Bütün sevgimle, Olivia",
+   //CUT CONTENT. Bir sırrı keşfettin dostum! AbigailJunimo'ya git ve ctrl+f yap bir ara sahne bulacaksın "AbigailJunimo": "Selam @,^^Diğer gün konuştuklarımızı düşünüyordum. Cevaptan çok sorum var. Benden daha fazla olduğunu bilmiyordum. Biliyorum yapmazsın ama bundan kimseye bahsetme. Bu sırrın içerisinde daha çok sır var ve hayatımı tümden değiştirmeye hazır değilim. Yakında görüşürüz.^^  -Abby",
+   "GusSophia": "Selam @,^^Bu mektubu sadece sana Sophia hakkında dediklerimi ona bahsetmeni istemediğim için yazıyorum.Ketum olacağına güveniyorum. Aynı kafada olmamız önemli.Seni mekanımda görmeyi iple çekiyorum.^^  -Gus",
+   "HaleyTalk": "@,^^Diğer gün . Tam anlamıyla delirmiştim ama sen çok sabırlıydın. Emily de çok anlayışlıydı ve çok yardımcı oldu. Bazen tam bir velet oluyorum biliyorum. Yakında görüşelim.^^  -Haley",
+   "KentSummit": "Selam @,^^Önceki gün sinirlendiğim için özür dilerim. Profesyonel yardım almaya başladığımı söylemek istedim. Beni ne öfkelendirdi bilmiyorum. Hayatımı düzene sokmanın sırası.^^  -Kent",
+   "PierreSVERebate": "@,^^Sana ve ürettiğin kaliteli ürüne teşekkürler. İşler patladı gitti. Düzenli indirimlerin yanı sıra sana özel bir bonus yolladım. Çok iyi bir müşteri ve üreticisin küçük topluluğumuz için yaptığın bütün katkılar için teşekkürler. Yerel işletmeleri ayakta tutan insanlara ihtiyacımız var.^^  -Pierre %item money 2000 5001 %%",
+   "JojaRockslideNotice": "Değerli JojaMart müşterileri:^^Yarın sabah tren yolundaki engel patlayıcı kullanarak temizlenecektir dikkat ediniz. Düşebilecek taşlar sebebiyle alandan kaçınınız. Joja LTD ŞTİ. hiçbir hasardan sorumlu değildir.^^JojaMart: Biz işinize değer veririz",
+   "SVEadvertisement1": "Sayın Sakin:^^Kayıtlarımıza göre bir JojaMart üyeliğiniz yok. Bunu biliyor muydunuz Joja kendi alanında bir numaradır? Üyelik büyük bir yatırım olarak görülebilir ama birçok şeyin kilidini açar. Bu üyelik hayatınızı değiştirecek! Bugün katılın ve Joja ailesinin bir üyesi olun.^^JojaMart:Biz işinize değer veririz",
+   "SVEadvertisement2": "Sayın sakin:^^Yıldızçiği Vadisi'nde bulunduğumuz günden beri, Joja bu ailein bir parçası olmak için çaba harcamaktadır. Ama sen olmadan yapamayız! Eğer bizim yerimize rakiplerimizden PIERRE'in Yeri gibi yerleri seçerseniz, bizim sağladığımız kaliteye ve sürdürülebilirliğe sahip olamayacaksınız ve sen olmadan yerel derneklere destek çıkamayız.^^^^JojaMart'tan al ahaline destek ol!^^JojaMart: Biz işinize değer veririz",
+   "SVEadvertisement3": "Çalışmak stres mi yaratıyor? Fern Adaları'nda bir tatile ne dersin? Adalar canlı iş merkezidir, yüzük meyvesiyle ünlüdür!Dar bir bütçeniz varsa hiç sıkıntı değil! Parıl parıl parlayan sahillerden bereketli yağmur ormanlarına kadar, Fern Adaları kuş izleyicileri ve sahil müdavimleri için tam anlamıyla mükemmel bir nokta. Fern Adaları'na gelin ve peşinde olduğunuz mutluluğu bulun!^^Bu reklamın bedeli Fern Adaları Turizm Bürosu tarafından karşılanmıştır.",
+   "SVEadvertisement4": "Ekinlerinizi sulamaktan bıktınız mı? Aldığınız en kaliteli malzemeler bile işinize yaramıyor mu? Bir çiftlik sahibi olmak zor bir iş. Size yardım etmesi için işe ırgat alabilirsiniz! Özellikle sonbahar gibi yüksek getirisi olan mevsimlerde, Etrafınızda size yardımcı olacak birilerinin olması, sizlere zaman kazandırabilir. Artı olarak, bölgenizde bulunan insanlar içinde iş olanağı sunmuş olursunuz. İş arayan birileri var mı diye, ilan tahtasını kontrol etmeyi unutmayın!",
+   "SVEadvertisement5": "KISA BİR SÜRELİĞİNE İNDİRİMDE:^^Kalite kontrollü bir maya çiftliğinden şarap fermantasyonunu en iyi hale getirmek için tasarlanmış besinlere sahip özel mayalayıcı. Yirmi yılı aşkın süredir en kaliteli şarapların üretilmesinde rol oynuyoruz.",
+   "SVEadvertisement6": "Alkol tüketiyor musunuz? Kendi üzümlerinizi mi yetiştiriyorsunuz? Kalitesiz depolardan sızan veya kuruyan o kaliteli sıvılarınızın harap olmasından bıktınız mı? Ahşap fıçılarımızı deneyin! Sızdırmıyorlar, ve ısı değişikliğine tamamen dayanıklılar, yani daha fazla buharlaşan sıvınız olmayacak. Onları kendiniz yapın, veya Grampleton'da durup yetenekli marangozlarımızdan mütevazi bir ücret karşılığında satın alabilirsiniz!",
+   "robinKitchenLetter": "Sevgili çiftçi @,^^Bir ara evin daha da büyütmek isteyebilirsin! İşte o an sana yardımcı olabilirim. Bana biraz malzeme getirebilir ve küçük bir ödeme yaparsan, senin için evini genişletebilirim. Yapacağım ilk iş, bir mutfak eklemek olacak. Bir mutfak ile, bildiğin tariflerin hepsini uygulayabilirsin!^^Herneyse, Umarım Yıldızçiyi Vadisinde kendini evinde gibi hissediyorsundur!^^   Marangozun,^   Robin",
+   "JasThankYouLetter": "Çiftçi @,^^Marnie Teyze sana bir teşekkür mektubu yollamam gerektiğini söyledi. Yani şey... Beni ormanda kaybolduğum zaman bulup, eve geri getirdiğin için teşekkür ederim. Bir daha ormanda o kadar derine gitmeyeceğim.^^  -Jas",
+   "winter_7": "Sevgili @,^^Yarın hepimiz Andy'nin evinde toplanıp, balık tutmak için ormanın derinliklerine doğru yürüyeceğiz.^^Buz şöleni için... orada kardan adamlar, buzdan heykeller, ve balık tutma yarışması olacak!^Eğer katılmak istersen 14:00'dan önce Andy'nin oraya uğra.^  -Muhtar Lewis",
+   "OliviaDatingLetter": "@,^^Bu yeni başladığımız ilişki hakkında bazı hislerimi sana açmak istiyorum. Bir ara benim evime uğrayabilir misin?^^  -Olivia",
+   "OliviaPartyLetter": "Selam balım,^^Bu gece evimde bir parti düzenliyorum. Kasabalıların bir çoğu burada olacak, Özel misafirimde dahil: vali!! Seninde orada olmanı çok isterim, @. Parti akşam altı gibi başlayacak. Sakın geç kalma!^^  -balkabağın, Olivia",
+   "MarlonLetterCherryBomb": "@,^^Madenler çok tehlikeli. Bu bombalar keşiflerin sırasında yardımcı olabilirler.^^Dikkatli ol.^^   -Marlon %item object 286 5 %%",
+   "MarlonLetterCherryBombX": "@,^^Hisar köyü bize fazladan bir sevkiyat yolladı. Bunları iyi değerlendireceğine eminim. İyi şanslar.^^  -Marlon %item object 286 10 %%",
+   "MarlonLetterBomb": "@,^^Canavarı yok ederken ettiğin yardım çok müteşşekir geçti. Bu bombalar keşiflerin sırasında bayağı yardımcı olacaklar. Kolay gelsin.^^  -Marlon %item object 287 10 %%",
+   "MarlonLetterMegaBomb": "@,^^Lonca, Hisar köyünden yeni bir sevkiyat aldı. Bu bombalar aşırı güçlü. Ateşlendikten sonra sakın yaklaşayım deme.^^  -Marlon %item object 288 10 %%",
+   "MarlonLetterPotions": "@,^^Camilla, Hisar köyünün cadısı, Lonca için 30 adet iksir saklamış. Bir kısmını ekte bıraktım. Bunlar keşiflerinde bayağı yardımcı olacaklar. İyi şanslar.^^  -Marlon %item object 773 15 %%",
+   "ShrineOfIllusionsLetter": "Selamlar @,^^Güvenirliğini kanıtladın. Sana bazı temel büyüleri öğretmek istiyorum. En kısa sürede beni bul.^^   -M. Rasmodius",
+   "AndyPictureLetter": "Selamlar çiftçi,^^Evi temizlerken bir şey buldum. Bir ara bana uğra ki gösterebileyim, bence hoşuna gidecek.^^   -Andy",
+   "SophiaThankYouLetter": "Hey @,^^Ailemin odasını eski haline getirmeme yardım ettiğin için teşekkürler. Bunu sensiz başaramazdım, özellikle bu kadar ağır şeyler ile! Biliyorum, her şeyi toplayıp geri göndermem biraz garipti... Sanırım kalbim böyle olmasını istiyordu.^Yıllanmış Mavi Ay şaraplarından bir tanesini senin için ayırdım. Teşekkürler, şapşik!^^  -Sophia %item object {{spacechase0.JsonAssets/ObjectId:Aged Blue Moon Wine}} 1 %%",
 	}
 },
 
@@ -874,7 +874,7 @@
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-      "PurchasedItem_Teen": "Hey, so I picked up a {2} at the store last night. Pierre said it came from %farm Farm!$1",
+      "PurchasedItem_Teen": "Selam, Dün gece dükkandan {2} satın aldım. Pierre onların %farm çiftliğinden geldiğini söyledi!$1",
     }
 },
 
@@ -1312,16 +1312,16 @@
 {    //Changes Earthquake text to Joja explosion clearing landslide
 	 "Action": "EditData",
      "Target": "Strings/Events",
-     "Entries": { "SoundInTheNight_Earthquake": "There was an explosion during the night..." }
+     "Entries": { "SoundInTheNight_Earthquake": "Gece bir patlama oldu..." }
 },
 
 {    //Adds spouse strings for the movie theater
 	 "Action": "EditData",
      "Target": "Strings/Characters",
      "Entries": { 
-	 "MovieInvite_Spouse_Victor": "Ah, of course! I'd love to see a movie with you!$3#$e#Shall we walk to the movie theater together?$1",
-	 "MovieInvite_Spouse_Olivia": "Oh, you want to see a film at the cinema? It'll be a lovely date night.$3",
-	 "MovieInvite_Spouse_Sophia": "Oooh! A movie? Yay!$9#$b#I'll meet you there okay?$1#$e#I'm going to get cotton candy!$1"
+	 "MovieInvite_Spouse_Victor": "Aa, tabii ki! Seninle seve seve filme giderim!$3#$e#Salona birlikte yürüyelim mi?$1",
+	 "MovieInvite_Spouse_Olivia": "Hm, film mi izlemek istiyorsun? Çok güzel bir randevu olacak gibi.$3",
+	 "MovieInvite_Spouse_Sophia": "Ne! film mi? evet!$9#$b#Orada buluşabiliriz.$1#$e#Pamuk şeker alacağım!$1"
 	 }
 },
 
@@ -1344,7 +1344,7 @@
      "Entries": {
 	     "shop": "O 166 0 1 O 608 0 3 BL 746 0 1 BO 113 0 1",
          "set-up": "spirits_eve/-1000 -1000/farmer 1 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Maru true 1 5000 2 7000 3 3000 4 3500 1 2000 2 3000 3 1000 4 2000/advancedMove Alex true -3 0 4 4000 3 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Abigail true 3 3500 2 3000 1 5000 3 5000 2 6000/advancedMove Harvey true 1 3500 4 5000 3 3000 2 5000 4 3000/advancedMove Pam true 0 1 1 5000 0 -1 1 5000/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/addTemporaryActor Shadow_Brute 16 32 46 59 2 false Monster/addTemporaryActor Shadow_Brute 16 32 43 58 2 false Monster/advancedMove Shadow_Brute true -4 0 3 5000 4 0 2 5000 1 3000 2 1000/addTemporaryActor Skeleton_Mage 16 32 51 32 2 false Monster/advancedMove Skeleton_Mage true -2 0 0 2 1 6000 0 -2 2 0 2 5000/addTemporaryActor Wilderness_Golem 16 24 63 25 3 false Monster/advancedMove Wilderness_Golem true -9 0 0 2 2 1000 0 -2 9 0 2 1500/addTemporaryActor Stone_Golem 16 24 54 32 1 false Monster/advancedMove Stone_Golem true 9 0 4 1000 -9 0 4 400/addTemporaryActor Shadow_Shaman 16 24 68 23 2 false Monster/advancedMove Shadow_Shaman true 1 1500 2 2000 3 3000 2 5000 4 1000/addTemporaryActor Metal_Head 16 16 74 27 2 false Monster/advancedMove Metal_Head true -4 0 2 200 4 0 4 100/addTemporaryActor Mummy 16 32 74 24 2 false Monster/advancedMove Mummy true -2 0 3 200 2 0 2 6000/playerControl halloween",
-		 "Pierre": "Happy Spirits' Eve, @!$h#$b#The wizard who lives in the woods created this maze. Apparently, there are two treasure chests hidden in there!$0#$e#But to find the treasure you need to get past the creatures he summoned to guard it... So that'll be a no from me.$s#$b#Best of luck to you if you attempt to find the treasure, @!$h",
+		 "Pierre": "Umarım ruhluk arefesi senin için güzel geçiyordur, @!$h#$b#Kasabanın güneyinde yaşayan büyücü bir labirent oluşturdu. Apparently, there are two treasure chests hidden in there!$0#$e#But to find the treasure you need to get past the creatures he summoned to guard it... So that'll be a no from me.$s#$b#Best of luck to you if you attempt to find the treasure, @!$h",
 		 "Wizard": "Hello, @. Have you entered the maze? I deployed... surprises for anyone who dares enter.#0#$e#I might have gone a little overboard with the monsters!$h",
 		 "Linus": "Hi, @. I hope this evening is treating you well.$0#$b#Many shadow brutes are violent, but these ones are particularly aggressive. If given the opportunity, they would tear you limb from limb!$3#$e#Not all shadow people are violent, though.$0#$b#I'm good friends with one called 'Krobus'. I understand what it's like to be judged for being different.$h#$e#Enjoy the festival.$1",
          "Krobus": "My friends... trapped in those cages...#$e#What will happen to them after the festival...?$2",
@@ -1385,7 +1385,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Victor": "Oh, wow! This is absolutely incredible. Thank you very much, @!/224 787 444/You're giving this to me? This is great! Thank you, @./254 346 348 349 392 394/Oh? For me? This is... nice. Thank you, @./18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Uhh... I don't like this at all, @. Sorry./205 404 420 422 609 610 196 213 218 219 225 403/Thank you for the gift, @. I really appreciate this!/184 186 180 182 174 176 424 426/"
+        "Victor": "Oo, vay canına! Bu muhteşem bir şey. Çok teşekkürler, @!/224 787 444/O nedir? Bu şey bir harika! Teşekkürler, @./254 346 348 349 392 394/Ne? Benim için mi? Bu... çok güzel. Teşekkürler, @./18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Uhh... bunu pek beğendiğimi söyleyemem, @. Üzgünüm./205 404 420 422 609 610 196 213 218 219 225 403/Hediye için teşekkürler, @!/184 186 180 182 174 176 424 426/"
       }
     },
 	{
@@ -1464,8 +1464,8 @@
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "Victor0": "I'm a little nervous about this? Aren't you?$4",
-        "Victor1": "To think I couldn't be anymore happier...$4"
+        "Victor0": "Böyle düşününce, biraz gerildim. Ya sen?$4",
+        "Victor1": "Daha ne kadar mutlu olabilirim ki...$4"
       }
     },
 	
@@ -1504,17 +1504,17 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "I love sci-fi films!$1"
+          "Text": "Bilim kurgu filmlerine bayılıyorum!$1"
         },
         "DuringMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Whoa!$1"
+          "Text": "Vay canına!$1"
         },
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Let's see another movie sometime.$3"
+          "Text": "Bir ara tekrar gelelim.$3"
         }
       },
         "ID": "reaction_0"
@@ -1527,17 +1527,17 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Horror movie, huh? I might end up holding your hand.$2"
+          "Text": "Korku filmi mi? Sonuna kadar elini bırakacağımı zannetmiyorum.$2"
         },
         "DuringMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Gah!$7"
+          "Text": "Ayy!$7"
         },
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "My heart is beating fast after that thriller.$7"
+          "Text": "Baksana, kalbim nasıl küt küt atıyor.$7"
         }
       },
         "ID": "reaction_1"
@@ -1550,17 +1550,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ah. This should be quite an interesting film.$1"
+            "Text": "Hmm. ilginç bir film olmalı.$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This is quite intriguing!$1"
+            "Text": "Çok ilginç!$1"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Really puts the world in perspective. Do you think we'll ever visit the stars someday?$1"
+            "Text": "Dünyayı farklı bir açıdan görmemi sağladı. Sence bir gün, diğer gezegenleri ziyaret edecek miyiz?$1"
           }
         },
         "ID": "reaction_2"
@@ -1573,17 +1573,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "You know, I never did beat this game. I'll watch it, though!$1"
+            "Text": "Biliyorsun, Şu oyunun hiçbir zaman sonunu getiremedim. O zaman izleyebiliriz!$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I wonder who will win!$3"
+            "Text": "Kimin kazanacağını çok merak ediyorum!$3"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great. I want to play the game now!$3"
+            "Text": "Bu muhteşemdi. Şu an oyunu tekrar oynamak istiyorum!$3"
           }
         },
         "ID": "reaction_3"
@@ -1596,17 +1596,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm looking forward to this movie.$1"
+            "Text": "Bu filmi çok merak ediyordum.$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Victor 3000/pause 500/message \"Victor is laughing!\"",
-            "Text": "Haha! Quite the spectacle!$1"
+            "Script": "/shake Victor 3000/pause 500/message \"Victor kahkaha atıyor!\"",
+            "Text": "Haha! Çok komik! Değil mi?$1"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This was a wonderful idea. Which part of the movie was your favorite?$3"
+            "Text": "Bu muhteşem bir fikirdi. Filmdeki en sevdiğin kısım neydi?$3"
           }
         },
         "ID": "reaction_4"
@@ -1625,7 +1625,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Must say, I did enjoy myself. I appreciate you taking me out, @.$3"
+            "Text": "Söylemeliyim ki. Beni dışarı çıkardığın için teşekkür ederim, @.$3"
           }
         },
         "ID": "reaction_5"
@@ -1638,17 +1638,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "At least the seats are comfy...$2"
+            "Text": "En azından koltuklar rahat...$2"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*yawn*... is it over yet?$2"
+            "Text": "*Esner*... Bitti mi?$2"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Err. The acting wasn't the best. I expected a bit more.$2"
+            "Text": "Imm. Oyuncuları beğenmedim. Daha iyi olabilirdi.$2"
           }
         },
         "ID": "reaction_6"
@@ -1663,14 +1663,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Victor": "I think Abigail is going to stomp everyone again. She always does.$0#$e#Mayor Lewis should consider asking her not to participate. It isn't fair for Vincent and Jas.$6#$e#Really, the same could be said about you too, @.$0"
+        "Victor": "Bence her yıl olduğu gibi Abigail yine herkesi yenecek.$0#$e#Muhtar Lewis ondan katılmamasını rica etmeli. Vincent ve Jas için hiç adil değil.$6#$e#Ciddiyim, dediğim şey senin içinde geçerli, @.$0"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Victor": "Hey, honey! Good luck hunting eggs today. Show those children who's boss.$1"
+        "Victor": "Selam, balım! Bugün yumurta avında iyi şanslar. Şu veletlere kimin patron olduğunu göster.$1"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1682,14 +1682,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Victor": "This strawberry jello is truly remarkable.$3"
+        "Victor": "Bu çilekli jöle çok güzel.$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Victor": "I always do enjoy our little trips out into the forest.$1#$b#Kinda wish we did this more often with everyone.$3"
+        "Victor": "Ormana yaptığımız yürüyüşleri seviyorum.$1#$b#Keşke daha sık olsa.$3"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1701,14 +1701,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Victor": "My mother and I just threw in some of our most expensive wine. It should make the soup taste delicious.$1#$e#I don't think any of the children can have any now though. Whoops.$2"
+        "Victor": "Annem ve ben yıllanmış şarapımızın çok az içine kattık. Umarım çorbanın tadını daha iyi hale getirir.$1#$e#Sanırım çocuklar içemeyecek. Ups.$2"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Victor": "We should sit next to each other and eat our soup!$4#$e#We can drink a glass of my mother's vintage wine with it!$1"
+        "Victor": "Beraber oturup, çorbayı içebiliriz.$4#$e#Yanında şarapta içebiliriz.$1"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1720,14 +1720,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Victor": "These moonlight jellies travel here all the way from across the world.$3#$b#They were at the Fern Islands just a few months ago.$1"
+        "Victor": "Bu denizanaları, dünyanın her yerinden buraya kadar seyahat ediyorlar.$3#$b#Birkaç ay önce de Fern adanalarındaydılar.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Victor": "I'd like to hold your hand while looking out at the moonlight jellies.$4#$e#I love you, @.$4"
+        "Victor": "Denizanalarına bakarken, elini tutabilir miyim?$4#$e#Seni seviyorum, @.$4"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1739,14 +1739,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "That clown is only juggling one ball... How odd.$0#$e#I might go look at the grange displays soon. This is getting boring.$2#$e#Have you set your display up?$1"
+        "Victor": "Şu palyaço sadece tek bir top döndürüyor... Çok garip.$0#$e#Belki biraz gidip, şu sergilere bakmalıyım. Burası bayağı bir sıkıcılaştı.$2#$e#Sergini hazırladın mı?$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "Hey there, honey! I hope you do well in the grange display contest!$4"
+        "Victor": "Buradayım, balım! Umarım yarışmada en iyi sergi seninki olur!$4"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1758,14 +1758,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Victor": "Uhh... there's a skeleton monster patrolling in there by those graves.$2"
+        "Victor": "Uhh... mezarın orada bir iskelet gördüğüme yemin edebilirim.$2"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Victor": "Be careful in there, honey! There's a monster!$7"
+        "Victor": "Dikkatli ol, hayatım! Orada bir canavar var!$7"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1777,14 +1777,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "I must say, I'm looking forward to seeing Willy show off his fishing skills.$1#$b#You can tell how talented he is. He's been fishing all of his life!$3"
+        "Victor": "Söylemeliyim ki, Willy'yi görmeyi iple çekiyorum.$1#$b#Ne kadar yetenekli değil mi? Hayatı boyunca balıkçılık yapmış!$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "Good luck in the fishing contest, sweetheart. You're going to do great!$4#$e#I'll be cheering for you!$1"
+        "Victor": "Balıkçılık yarışmasında iyi şanslar, tatlım. Çok iyi bir iş çıkaracağına eminim!$4#$e#Senin için tezahürat yapacağım!$1"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1796,14 +1796,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "I wonder if I should give her the gift now? Hmm. Timing is everything.$0"
+        "Victor": "Acaba hediyeyi şimdi mi vermeliyim? Zamanlama her şeydir.$0"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "Hey, @. Umm... I have a gift for you at home.$4#$b#I'll show you tonight, okay?$4"
+        "Victor": "Hey, @. Senin için bir hediyem var.$4#$b#Sana bu akşam vereceğim, tamam mı?$4"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -1815,9 +1815,9 @@
       "Action": "EditData",
       "Target": "Data/Events/JenkinsHouse",
       "Entries": {
-        "2000000/f Victor 500/e 1000034/p Victor": "jaunty/-500 -500/farmer 20 34 0 Victor 24 25 2/pause 400/skippable/showFrame Victor 37/viewport 22 27 true/move farmer 0 -7 1/pause 800/move farmer 4 0 0/pause 1000/showFrame Victor 38/pause 650/speak Victor \"Oh, sorry. I didn't see you there, @!$1\"/pause 300/showFrame Victor 37/pause 600/showFrame Victor 38/pause 300/speak Victor \"I'm in the middle of reading an adventurer's book about the Fern Islands archipelago. You may not know this, but the Islands are full of perilous caverns.$1#$b#They wind down under the sea and are full of monsters that never emerge above ground.$3#$b#If this adventurer is to be believed, there are huge tentacle monsters and venomous floating jellyfish. It's hard to believe they made it back to write their story!$7\"/pause 200/emote farmer 16/pause 300/showFrame Victor 37/pause 750/showFrame Victor 38/pause 450/speak Victor \"The clan that protects the Fern Islands is called 'The First Slash'. They wear blue cloaks and use long spears, and are led by a fierce fighter named Ekon.$1#$b#Marlon knows him.$3#$b#They coauthored another book somewhere here in the library.$0\"/pause 450/question fork0 \"#Have you considered joining the Adventurer's Guild?#I want to visit the islands sometime!\"/fork 2000000_JoinGuild/pause 550/speak Victor \"My mother and I recently took a trip to Sautine City in the Islands. The beaches are truly a sight to behold.$3#$b#I hope we get to return soon. We take a vacation or two every year, but my mother usually chooses the destination.$1\"/pause 500/showFrame Victor 37/pause 600/speak Victor \"I tend to get lost in my books. This collection used to be small, but over time they've built up.$3#$b#I think I've read around three quarters of the books currently in our library, but it just seems to keep growing.$0#$b#I don't think I'll ever be able to say I've read them all.$1\"/pause 500/showFrame Victor 38/pause 750/speak Victor \"You have my permission to read any of the books here that catch your eye, @.$3#$b#If you want to borrow one to bring home, let me know first.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"I'm going to get back to reading. Have a nice day, @. We should chat again soon!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"I got further into the book about the Fern Islands. Apparently those venomous jellyfish are called Zinnes.$7#$b#There's a wizard in the Fern Islands who brews a potion that neutralizes Zinnes venom. His potion saved the adventurer's life!$1\"",
+        "2000000/f Victor 500/e 1000034/p Victor": "jaunty/-500 -500/farmer 20 34 0 Victor 24 25 2/pause 400/skippable/showFrame Victor 37/viewport 22 27 true/move farmer 0 -7 1/pause 800/move farmer 4 0 0/pause 1000/showFrame Victor 38/pause 650/speak Victor \"Ha, üzgünüm. seni bir an göremedim, @!$1\"/pause 300/showFrame Victor 37/pause 600/showFrame Victor 38/pause 300/speak Victor \"Fern adaları hakkında bir maceracı yazdığın kitabı okuyordum. Belki bunu biliyorsundur, ama ada tehlikeli mağaralar ile doluymuş.$1#$b#Denize girip çıkan, fakat hiçbir zaman yüzeyde kendini göstermeyen yaratıklar varmış.$3#$b#Bu maceracıya bakılırsa, Mağaralarda büyük dokunaçları olan yaratıklar ve uçan zehirli denizanaları varmış. Bu hikayeyi yazabilmek için geri dönebilmelerine inanmak cidden çok güç!$7\"/pause 200/emote farmer 16/pause 300/showFrame Victor 37/pause 750/showFrame Victor 38/pause 450/speak Victor \"Fern adalarını yaratıklardan koruyan topluluğa 'The First Slash' deniyormuş. Mavi pelerinler ve kapuşonlar takıp, uzun kılıçlar kullanıyorlarmış ve liderleri Ekon adında ki güçlü bir savaşçıymış.$1#$b#Marlon onu biliyor olmalı.$3#$b#Kütüphanedeki başka bir kitapta daha geçiyorlardı.$0\"/pause 450/question fork0 \"#Hiç maceracı loncasına katılmayı düşündün mü?#Bir ara cidden adaları ziyaret etmek istiyorum!\"/fork 2000000_JoinGuild/pause 550/speak Victor \"Annem ile birlikte adalarda Sautine şehrine bir gezi düzenledik. Plaja gittiğinde gerçekten çok güzel bir manzara ile karşılaşıyorsun.$3#$b#Umarım yakında tekrar gideriz. Her yıl neredeyse bir iki kere tatile çıkıyoruz, ama gideceğimiz yeri genellikle annem seçiyor.$1\"/pause 500/showFrame Victor 37/pause 600/speak Victor \"Kitaplarımın arasında gezerken, kendimi sürekli kaybediyorum. Bu kitap koleksiyonu eskiden çok küçüktü, ama zamanla bayağı kalabalıklaştılar.$3#$b#Sanırım şu anda kütüphanedeki kitapların dörtte üçünü okumuşumdur, ama sürekli büyümeye devam ediyormuş gibi gözüküyor.$0#$b#Bir gün hepsini okuduğumu söyleyebileceğimi zannetmiyorum.$1\"/pause 500/showFrame Victor 38/pause 750/speak Victor \"Kitaplığımdan istediğin kitabı alıp, okuyabilirsin @.$3#$b#Eğer birini alıp eve götürmek istersen, sadece önce bana haber ver lütfen.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"Ben okumaya devam edeceğim. İyi günler, @. Bir ara tekrar muhabbet etmeliyiz!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"Şu Fern adaları hakkındaki kitapta bayağı ileri gittim. Görünüşe göre şu zehirli denizanalarına zinne deniyormuş..$7#$b#Fern adalarında, Zinne'lerin zehirini etkisiz hale getiren bir iksir yapan büyücü varmış. İksiri maceracıların hayatını kurtarabilir!$1\"",
 		
-		"2000000_JoinGuild": "pause 750/showFrame Victor 38/speak Victor \"!!!$7#$b#Me? Joining the Adventurer's Guild? Hahahaha!$1#$b#I'm great at reading and studying monsters, but I'd be hopeless in a fight. I'll leave that to brave people like you, @.$3\"/pause 1200/speak Victor \"I'm thankful we have people like you to protect us. I know it's dangerous, tough work.$3\"/pause 500/emote farmer 32/pause 500/showFrame Victor 37/pause 1750/showFrame Victor 38/pause 1000/speak Victor \"All I do is read books all day.$1#$b#This collection of books used to be small, but over time they've built up.$3#$b#I think I've read around three quarters of the books currently in our library, but it just seems to keep growing.$0#$b#I don't think I'll ever be able to say I've read them all.$1\"/pause 1000/showFrame Victor 38/pause 750/speak Victor \"You have my permission to read any of the books here that catch your eye, @.$3#$b#If you want to borrow one to bring home, just let me know first.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"I'm going to get back to reading. Have a nice day, @. We should chat again soon!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"I got further into the book about the Fern Islands. Apparently those venomous jellyfish are called Zinnes.$7#$b#There's a wizard in the Fern Islands who brews a potion that neutralizes Zinnes venom. His potion saved the adventurer's life!$1\"",
+		"2000000_JoinGuild": "pause 750/showFrame Victor 38/speak Victor \"!!!$7#$b#Ben mi? Maceracı Loncası'na katılmak mı? Hahahaha!$1#$b#Canavarlar hakkında okumayı ve çalışmayı seviyorum, ama kavgada tam bir umutsuz vakayım. Bu işleri senin gibi cesur insanlara bırakıyorum, @.$3\"/pause 1200/speak Victor \"Senin gibi insanlara bizi koruduğu için çok minnetkarım. Kaba ve tehlikeli bir iş olduğunu biliyorum.$3\"/pause 500/emote farmer 32/pause 500/showFrame Victor 37/pause 1750/showFrame Victor 38/pause 1000/speak Victor \"Tek yaptığım şey tüm gün kitap okumak$1#$b#Bu kitap koleksiyonu eskiden çok küçüktü, ama zamanla bayağı kalabalıklaştılar.$3#$b#Sanırım şu anda kütüphanedeki kitapların dörtte üçünü okumuşumdur, ama sürekli büyümeye devam ediyormuş gibi gözüküyor.$0#$b#Bir gün hepsini okuduğumu söyleyebileceğimi zannetmiyorum.$1\"/pause 1000/showFrame Victor 38/pause 750/speak Victor \"Kitaplığımdan istediğin kitabı alıp, okuyabilirsin @.$3#$b#Eğer birini alıp eve götürmek istersen, sadece önce bana haber ver lütfen.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"Ben okumaya devam edeceğim. İyi günler, @. Umarım yakında tekrar muhabbet ederiz!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"Şu Fern adaları hakkındaki kitapta bayağı ileri gittim. Görünüşe göre şu zehirli denizanalarına zinne deniyormuş..$7#$b#Fern adalarında, Zinne'lerin zehirini etkisiz hale getiren bir iksir yapan büyücü varmış. İksiri maceracıların hayatını kurtarabilir!$1\"",
       }
     },
 
@@ -1826,7 +1826,7 @@
       "Action": "EditData",
       "Target": "Data/Events/ShearwaterBridge",
       "Entries": {
-      "2000050/z winter/w sunny/t 800 1700/f Victor 750/k 2000004": "jaunty/-500 -500/farmer 15 20 1 Victor 37 20 2 Linus 66 10 0/pause 1000/animate Victor false true 120 16 17 18 17 17 18 17 17 18 18 18 17 18 17 18 17 18 18 17 17 18 17 18 17 18 17 18 17 17 17 18 18 17 18 17 18 17 18/viewport 22 20 true/viewport move 1 0 10000 true/move farmer 19 0 1 true/pause 8500/stopAnimation Victor/pause 1000/move Victor 0 0 3/pause 400/emote Victor 16/speak Victor \"Hello, @! Visiting Shearwater Bridge I see.$1#$b#I'm doing some calculations on its structural integrity.$3\"/pause 200/emote farmer 16/pause 350/speak Victor \"This bridge was built forty years ago, and at the time it was a triumph of engineering. It made easy travel to and from Grampleton possible for the first time.$1#$b#Bridges fascinate me. They're so simple, but can have so much impact on people's lives.$1#$b#I've built models of a few famous ones. Someday, I want to build something on this scale.$3\"/pause 600/move Victor 0 0 1/pause 650/move Victor 0 0 3/pause 850/speak Victor \"There's a bridge engineer in Grampleton. His name is Ralph.#$b#When he needs help, I assist him with his work to get hands-on experience.$3\"/pause 800/speak Victor \"The physics and mathematics that go into bridge construction need to be absolutely flawless.$6#$b#Even a tiny mistake in a single calculation could lead to a major catastrophe.$2\"/pause 1500/move Victor 0 0 2/pause 1050/showFrame Victor 19/pause 1100/showFrame Victor 16/pause 1400/showFrame Victor 19/pause 1000/showFrame Victor 0/pause 600/move Victor 0 0 3/pause 500/speak Victor \"I'm returning to my residence. Need to run these calculations on my computer. It's been a pleasure speaking with you, @.$1\"/pause 1000/globalFade/viewport -1000 -1000/pause 1000/friendship Victor 50/end dialogue Victor \"I ran those calculations I told you about. I think I've stumbled onto a real improvement plan for Shearwater Bridge!$1#$b#These structural upgrades could save 213,500G of maintenance costs over the next ten years. I should talk to Ralph right away!$1#$e#Doing work that takes a lot of brainpower makes me hungry. I wonder if there's leftover spaghetti.$3\""
+      "2000050/z winter/w sunny/t 800 1700/f Victor 750/k 2000004": "jaunty/-500 -500/farmer 15 20 1 Victor 37 20 2 Linus 66 10 0/pause 1000/animate Victor false true 120 16 17 18 17 17 18 17 17 18 18 18 17 18 17 18 17 18 18 17 17 18 17 18 17 18 17 18 17 17 17 18 18 17 18 17 18 17 18/viewport 22 20 true/viewport move 1 0 10000 true/move farmer 19 0 1 true/pause 8500/stopAnimation Victor/pause 1000/move Victor 0 0 3/pause 400/emote Victor 16/speak Victor \"Merhaba, @! Shearwater köprüsü sağlam gözüküyor, değil mi?$1#$b#Yapısal bütünlüğü hakkında bazı hesaplamalar yapıyorum.$3\"/pause 200/emote farmer 16/pause 350/speak Victor \"Bu köprü kırk yıl önce inşa edildi, ve o zamanlar mühendisliğin zirvesiydi. Grampleton'a seyahat etmeyi çok kolaylaştırmıştı. $1#$b#Köprüler beni büyülüyorlar. Çok basitler, ama insanların hayatına çok fazla etki edebilirler.$1#$b#Ünlü köprülerin bir çoğunun minyatür modellerini yaptım. Ama bir gün, bu ölçekte bir şeyler inşa etmek istiyorum.$3\"/pause 600/move Victor 0 0 1/pause 650/move Victor 0 0 3/pause 850/speak Victor \"Grampleton'da bir köprü mühendisi var. Adı Ralph.#$b#Yardıma ihtiyacı olduğu anlarda, tecrübe edinebilmek için ona çalışmalarında yardımcı oluyorum.$3\"/pause 800/speak Victor \"Eğer bir köprü inşaatı yapıyorsan, matematiğin ve fiziğin kusursuz olması gerekir.$6#$b#Hesaplamada çok küçük bir hata dahi yaparsan, büyük bir felakete yol açabilirsin.$2\"/pause 1500/move Victor 0 0 2/pause 1050/showFrame Victor 19/pause 1100/showFrame Victor 16/pause 1400/showFrame Victor 19/pause 1000/showFrame Victor 0/pause 600/move Victor 0 0 3/pause 500/speak Victor \"Şimdi eve gitmem lazım. Yaptığım hesaplamaları, bilgisayarımda ayarlamam gerekiyor. Seninle konuşmak çok eğlenceliydi, @.$1\"/pause 1000/globalFade/viewport -1000 -1000/pause 1000/friendship Victor 50/end dialogue Victor \"Sana bahsettiğim hesaplamaları yaptım. Sanırım Shearwater köprüsünü daha iyi bir hale getirebilirim!$1#$b#Hesapladığım yapısal iyileştirmeler, önümüzdeki on yıl içerisinde yapılacak bakım maliyetinden 213.500 Altın tasarruf ettirebilir. Şimdi gidip Ralph ile konuşmalıyım!$1#$e#Beynimi kullanmak beni cidden acıktırıyor. Acaba evde hiç spagetti kaldı mı?$3\""
       }
     },
 	
@@ -1845,9 +1845,9 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "2000002/f Victor 1500/t 1000 1700/w sunny": "spring_day_ambient/-500 -500/farmer 89 56 2 Victor 97 61 1/pause 400/skippable/showFrame Victor 43/viewport 95 62 true/move farmer 0 7 1/pause 1150/emote farmer 8/pause 1000/move farmer 8 0 0/pause 750/showFrame Victor 4/pause 1000/move Victor 0 0 2/pause 600/speak Victor \"Hi, @.$6\"/pause 400/emote farmer 40/speak Victor \"Oh, what am I doing? I'm... well, just thinking at the moment. I have a lot on my mind.$6\"/pause 600/move Victor 0 0 1/pause 550/showFrame Victor 43/pause 700/playMusic desolate/pause 1500/speak Victor \"My mother told me she's disappointed I haven't found a job yet. I came to the park to get out of the house for a while.$2#$b#I can't blame her for feeling that way. I graduated from university a year ago and I'm still living at home.$2#$b#Maybe she thinks I'm just lazy and comfortable living at home forever because we're financially secure.$6#$b#But that's... not the case at all.$2\"/pause 1100/speak Victor \"Over the last year, I've turned down dozens of internships and job offers. None of them appealed to me.$2#$b#I don't want to move out of the valley and work myself to death in the city.$2#$b#I want a career where I'm free to be who I am, not who I'm told to become.$6\"/pause 1000/showFrame Victor 4/pause 1000/move Victor 0 0 2/pause 750/speak Victor \"You understand what I'm saying, @. You quit your office job because that wasn't true to who you were.$6#$b#You took a leap of faith and took over your grandpa's farm. Just look at how that transformed your life!$3#$b#In a way... I envy you, @.$2\"/pause 1200/question fork0 \"#Working at Joja was the worst.#You should move to the city and get a job.\"/fork 2000002_FindYourPassion/pause 800/move Victor 0 0 1/pause 1000/showFrame Victor 43/pause 1000/speak Victor \"I know there aren't many jobs here in the valley, @. You can't do much here unless you freelance or are willing to commute two hours to Zuzu City.$2#$b#Like I said before, I don't want to move away. I love living here, and I can't see myself going anywhere else.$6\"/pause 1500/speak Victor \"I lived in Zuzu City all my life with my parents. Moving to Stardew Valley... it was the first time I felt like I was home.$6\"/pause 1250/speak Victor \"Imagine how you would feel if you suddenly moved back to your city after finding this place. It'd feel like being a plant, uprooted.$6\"/pause 1050/emote farmer 60/pause 600/speak Victor \"Then you understand what I mean.$6\"/pause 300/globalFade/viewport -1000 -1000/pause 800/friendship Victor -125/end dialogue Victor \"Hi, @. I appreciate you talking to me at the park. You're a good listener.$6\"",
+        "2000002/f Victor 1500/t 1000 1700/w sunny": "spring_day_ambient/-500 -500/farmer 89 56 2 Victor 97 61 1/pause 400/skippable/showFrame Victor 43/viewport 95 62 true/move farmer 0 7 1/pause 1150/emote farmer 8/pause 1000/move farmer 8 0 0/pause 750/showFrame Victor 4/pause 1000/move Victor 0 0 2/pause 600/speak Victor \"Selam, @.$6\"/pause 400/emote farmer 40/speak Victor \"Oh, ne mi yapıyorum? Ben şey, şu an sadece düşünüyorum. Kafam çok dolu.$6\"/pause 600/move Victor 0 0 1/pause 550/showFrame Victor 43/pause 700/playMusic desolate/pause 1500/speak Victor \"Annem iş bulamadığım için üzgün olduğunu söyledim. Biraz evden uzaklaşmak için parka geldim.$2#$b#Böyle hissettiği için onu suçlayamam. Üniversiteden bir yıl önce mezun oldum ve hala bir işim yok.$2#$b#Annem finansal olarak rahat olduğumuz için tembel ve rahat takıldığımı düşünüyor.$6#$b#Fakat tam olarak böyle değil.$2\"/pause 1100/speak Victor \"Geçen yıl, düzinelerce iş ve staj teklifini reddettim. Hiçbiri bana göre değil.$2#$b#Vadiden ayrılıp ölümüne çalışmak istemiyorum.$2#$b#Nerede kendim olabiliyorsam orada kariyer yapmak istiyorum. Birine dönüşmek istemiyorum.$6\"/pause 1000/showFrame Victor 4/pause 1000/move Victor 0 0 2/pause 750/speak Victor \"Dediğimi anlıyor musun, @. Hatta ofisteki işini bu yüzden bırakmıştın değil mi?$6#$b#Kendine inanıp bir adım attın ve dedenin çiftliğini işletiyorsun. Sadece hayatının nasıl değiştiğine bir bak!$3#$b#Bu konuda seni kıskanıyorum, @.$2\"/pause 1200/question fork0 \"#Joja için çalışmak en kötüsü.#Şehire taşınmalı ve orada iş bulmalısın.\"/fork 2000002_FindYourPassion/pause 800/move Victor 0 0 1/pause 1000/showFrame Victor 43/pause 1000/speak Victor \"Vadide fazla iş imkanı olmadığını biliyorum, @. Serbest çalışmazsan veya Zuzu Şehri'ne iki saat sürecek bir yolu çekmek istemezsen burada yapacak pek bir iş yok.$2#$b#Daha öncede dediği gibi, taşınmak istemiyorum. Burada yaşamayı seviyorum ve kendimi başka bir yerde göremiyorum.$6\"/pause 1500/speak Victor \"Bütün hayatım boyunca ailemle birlikte Zuzu Şehri'nde yaşadım. Yıldızçiği Vadisi'ne taşınmak... ilk defa evimdeymişim gibi hissettim.$6\"/pause 1250/speak Victor \"Bir düşünsene böyle bir yerden tekrar şehre dönünce nasıl hissedeceksin. Kökünden koparılmış bir bitki gibi hissedersin.$6\"/pause 1050/emote farmer 60/pause 600/speak Victor \"Ne dediğimi anlarsın o zaman.$6\"/pause 300/globalFade/viewport -1000 -1000/pause 800/friendship Victor -125/end dialogue Victor \"Selam, @. Benimle parkta konuştuğun için minnettarım. Sen iyi bir dinleyicisin.$6\"",
       
-	    "2000002_FindYourPassion": "pause 750/speak Victor \"A career like that sounds dreadful. Having a boss telling you what to do and how to feel.$2#$b#Working that much... that's essentially over half your life that doesn't belong to you.$6\"/pause 1250/move Victor 0 0 1/pause 1000/showFrame Victor 43/pause 1000/speak Victor \"My mother doesn't understand what I'm going through...$6#$e#She and the rest of my family keep pressuring me to jump into a high-paying career. It seems like no one cares how I feel about it.$2#$e#There aren't many jobs here in the valley unless you freelance work or are willing to commute an hour to Zuzu City.$6#$b#That's two hours a day, with good traffic...$2\"/pause 1250/showFrame Victor 4/pause 800/move Victor 0 0 2/pause 1000/speak Victor \"I'm optimistic I'll figure this all out soon enough, @.$3#$e#Thanks for hearing me out. See you around.$1/pause 1000/globalFade/viewport -1000 -1000/pause 800/friendship Victor 75/end dialogue Victor \"Hi, @. I appreciate you talking to me at the park. You're a good listener.$3#$b#I consider you one of my closest friends.$1\"",
+	    "2000002_FindYourPassion": "pause 750/speak Victor \"Öyle bir kariyer kulağa korkunç geliyor. Sana ne yapacağını ve nasıl hissedeceğini söyleyen bir patron.$2#$b#O kadar çalışmak... bu tam olarak hayatın yarısına sahip olamamak demek.$6\"/pause 1250/move Victor 0 0 1/pause 1000/showFrame Victor 43/pause 1000/speak Victor \"Annem nasıl bir dönem geçirdiğimi bilmiyor...$6#$e#O ve ailemin geri kalanı yüksek maaşlı bir iş bulmam için beni zorluyor. Kimse ne düşündüğümü umursamıyor.$2#$e#Vadide fazla iş imkanı olmadığını biliyorum, @. Serbest çalışmazsan veya Zuzu Şehri'ne iki saat sürecek bir yolu çekmek istemezsen burada yapacak pek bir iş yok.$6#$b#Günde iki saat yol o da trafik yoksa...$2\"/pause 1250/showFrame Victor 4/pause 800/move Victor 0 0 2/pause 1000/speak Victor \"Öyle ya da böyle bu sorunu çözülecek ona eminim, @.$3#$e#Beni dinlediğin için teşekkürler. Sonra görüşmek üzere.$1/pause 1000/globalFade/viewport -1000 -1000/pause 800/friendship Victor 75/end dialogue Victor \"Selam, @. Parkta konuştuğun için teşekkürler. Sen iyi bir dinleyicisin.$3#$b#Seni en yakın arkadaşlarımdan biri olarak görüyorum.$1\"",
 	  }
     },
 	
@@ -1856,11 +1856,11 @@
       "Action": "EditData",
       "Target": "Data/Events/JenkinsHouse",
       "Entries": {
-        "2000003/f Victor 2000/e 2000002": "playful/-500 -500/farmer 10 25 0 Victor 31 25 2 Olivia 20 19 1/pause 400/skippable/showFrame Victor 37/viewport 27 16 true/move Olivia 5 0 0/pause 300/shake Olivia 500/pause 1000/move Olivia 1 0 0/pause 500/shake Olivia 400/pause 1100/textAboveHead Olivia \"All done! Not a single speck left!\"/pause 1350/move Olivia 5 0 0/move Olivia 0 -1 1/move Olivia 2 0 0/pause 800/textAboveHead Olivia \"Victor? I'm coming in.\"/pause 2000/doAction 33 17/pause 600/viewport move 0 -1 7400 true/move Olivia 0 -7 0/pause 300/move Olivia 0 0 3/pause 750/move Olivia 0 0 2/pause 600/move Olivia 0 0 1/pause 500/textAboveHead Olivia \"Ugh... so dusty.\"/pause 1500/move Olivia 0 -2 1/move Olivia 2 0 1/pause 300/shake Olivia 400/pause 700/move Olivia 0 -1 1/pause 250/shake Olivia 500/pause 800/move Olivia 0 -1 1/pause 400/shake Olivia 400/pause 800/move Olivia 0 0 0/pause 750/emote Olivia 8/pause 600/move Olivia 0 -2 1/pause 750/emote Olivia 40/pause 500/showFrame Olivia 29/playSound newRecipe/pause 500/showFrame Olivia 30/pause 750/emote Olivia 40/pause 1000/stopMusic/speak Olivia \"!!!??$7\"/pause 1000/shake Olivia 1500/pause 800/speak Olivia \"!!!$7\"/pause 1000/playSound newRecipe/speed Olivia 4/move Olivia -2 0 2/speed Olivia 4/move Olivia 0 10 1 true/globalFade/viewport -1000 -1000/pause 1000/warp Olivia 21 27/warp farmer 16 28/move Olivia 0 0 1/viewport 27 27 true/move Olivia 2 0 1/speed Olivia 4/pause 700/shake Olivia 800/pause 1200/move Olivia 8 0 0/playMusic shaneTheme/pause 250/speak Olivia \"VICTOR!!$5\"/move farmer 0 0 1/showFrame Victor 38/emote Victor 16/speed farmer 4/move farmer 8 0 1 true/speak Victor \"Ahh! Wh-what!?$7\"/pause 600/shake Olivia 2000/pause 700/speak Olivia \"YOU'VE BEEN TURNING DOWN JOB OFFERS!?$5\"/pause 300/speed farmer 4/move farmer 0 -2 1/move Victor 0 0 2/speed farmer 4/move farmer 2 0 2 true/speak Victor \"I've been doing nothing of the sort! The job market-$7\"/pause 150/speak Olivia \"NO! STOP! Do NOT lie to me again, Victor. I read your diary!$5\"/pause 500/speak Victor \"You were snooping around my room!?$7\"/pause 500/speak Olivia \"I was dusting the house, and thought I'd clean your room for once. It's always a dusty wreck.$6#$b#My father is coming to visit soon, and I wanted the house to be perfect for his arrival.$6\"/pause 1000/speak Olivia \"I found a note that says you've been turning down internships and job offers.$5#$b#This is why you haven't found a job after graduating!? Why, Victor?$5#$b#What is the point of this charade? Don't you want to have a successful career?$2\"/pause 1350/speak Victor \"...$2\"/pause 1850/shake Olivia 1500/pause 700/speak Olivia \"ANSWER ME!$5\"/pause 400/speak Victor \"I DIDN'T KNOW WHAT I WANTED TO DO!$5\"/pause 500/emote Olivia 16/pause 400/move Olivia 0 -1 0/pause 400/speak Olivia \"That's all you have to say for yourself?! After all the money I spent sending you to Pellcar University?...$5\"/pause 200/emote farmer 60/pause 250/speak Olivia \"Victor, I'm buying a one-bedroom apartment for you in Zuzu City. I'll give you some starting money, and then I'm cutting you off.$0\"/pause 300/emote Victor 16/pause 500/shake Victor 1000/pause 500/speak Olivia \"You're moving out, Victor. Now. Maybe being back in the city without my bank account to rely on will inspire you to start living your life.$5\"/pause 500/speak Victor \"Mom, no! Please, just let me explain! I have a reaso-$7\"/speak Olivia \"There is nothing to explain, Victor. This is for your own good.$2\"/emote Victor 28/pause 500/move farmer 0 2 1/move farmer 5 0 0/pause 300/move Olivia 0 0 2/stopMusic/pause 200/emote Olivia 16/pause 200/speak Olivia \"!!!$7\"/pause 200/speed Victor 4/move Victor -1 0 2/speed Victor 4/move Victor 0 1 2/pause 250/speak Victor \"@!?$7\"/pause 600/speak Olivia \"You were eavesdropping on our conversation!?$5\"/pause 1000/question fork0 \"#I came by to read some of Victor's books and I heard you two arguing.\"/fork 2000003_Eavesdropping/end",
+        "2000003/f Victor 2000/e 2000002": "playful/-500 -500/farmer 10 25 0 Victor 31 25 2 Olivia 20 19 1/pause 400/skippable/showFrame Victor 37/viewport 27 16 true/move Olivia 5 0 0/pause 300/shake Olivia 500/pause 1000/move Olivia 1 0 0/pause 500/shake Olivia 400/pause 1100/textAboveHead Olivia \"Hepsi tamam. Bir nokta bile kalmadı!\"/pause 1350/move Olivia 5 0 0/move Olivia 0 -1 1/move Olivia 2 0 0/pause 800/textAboveHead Olivia \"Victor? İçeri geliyorum.\"/pause 2000/doAction 33 17/pause 600/viewport move 0 -1 7400 true/move Olivia 0 -7 0/pause 300/move Olivia 0 0 3/pause 750/move Olivia 0 0 2/pause 600/move Olivia 0 0 1/pause 500/textAboveHead Olivia \"Ugh... çok tozlu.\"/pause 1500/move Olivia 0 -2 1/move Olivia 2 0 1/pause 300/shake Olivia 400/pause 700/move Olivia 0 -1 1/pause 250/shake Olivia 500/pause 800/move Olivia 0 -1 1/pause 400/shake Olivia 400/pause 800/move Olivia 0 0 0/pause 750/emote Olivia 8/pause 600/move Olivia 0 -2 1/pause 750/emote Olivia 40/pause 500/showFrame Olivia 29/playSound newRecipe/pause 500/showFrame Olivia 30/pause 750/emote Olivia 40/pause 1000/stopMusic/speak Olivia \"!!!??$7\"/pause 1000/shake Olivia 1500/pause 800/speak Olivia \"!!!$7\"/pause 1000/playSound newRecipe/speed Olivia 4/move Olivia -2 0 2/speed Olivia 4/move Olivia 0 10 1 true/globalFade/viewport -1000 -1000/pause 1000/warp Olivia 21 27/warp farmer 16 28/move Olivia 0 0 1/viewport 27 27 true/move Olivia 2 0 1/speed Olivia 4/pause 700/shake Olivia 800/pause 1200/move Olivia 8 0 0/playMusic shaneTheme/pause 250/speak Olivia \"VICTOR!!$5\"/move farmer 0 0 1/showFrame Victor 38/emote Victor 16/speed farmer 4/move farmer 8 0 1 true/speak Victor \"Ahh! Ne-ne!?$7\"/pause 600/shake Olivia 2000/pause 700/speak Olivia \"SEN İŞ TEKLİFLERİNİ RED Mİ EDİYORDUN!?$5\"/pause 300/speed farmer 4/move farmer 0 -2 1/move Victor 0 0 2/speed farmer 4/move farmer 2 0 2 true/speak Victor \"Hanım iş mi var iş! İş piyasası-$7\"/pause 150/speak Olivia \"HAYIR! DUR! Bana sakın yalan söyleme Victor çünkü inanırım. Günlüğünü okuyordum!$5\"/pause 500/speak Victor \"Sen benim odamı mı karıştırıyorsun!?$7\"/pause 500/speak Olivia \"Evi temizliyordum ve bir kerecikde olsa odanı temizleyeyim dedim. Odan her zaman tozdan oluşan bir yıkıntı.$6#$b#Babam ziyarete gelecek, ve ben evimin mükemmel olmasını istiyrum.$6\"/pause 1000/speak Olivia \"Staj ve iş tekliflerini reddetiğin bir not parçası buldum.$5#$b#Mezun olduktan sonra iş bulamamanın sebebi bu mu!? Neden, Victor?$5#$b#Bu maskaralığın sebebi ne? Başarılı bir kariyer istemiyor musun?$2\"/pause 1350/speak Victor \"...$2\"/pause 1850/shake Olivia 1500/pause 700/speak Olivia \"CEVAP VER!$5\"/pause 400/speak Victor \"NE YAPMAK İSTEDİĞİMİ BİLMİYORUM!$5\"/pause 500/emote Olivia 16/pause 400/move Olivia 0 -1 0/pause 400/speak Olivia \"Bütün diyeceklerin bu kadar mı?! Seni Pellcar Üniversitesi'ne göndermek için harcadığım o kadar paradan sonra...$5\"/pause 200/emote farmer 60/pause 250/speak Olivia \"Victor, senin için Zuzu Şehri'nde tek yatak odalı bir ev tutuyorum. Başlangıç için sana bir miktar para veriyorum, ve sonra benden tek kuruş alamayacaksın.$0\"/pause 300/emote Victor 16/pause 500/shake Victor 1000/pause 500/speak Olivia \"Taşınıyorsun, Victor. ŞİMDİ. Bu zamana kadar güvendiğin anneciğinin banka hesabının olmaması sana yeni bir hayata başlaman için gerekli ilhamı verir.$5\"/pause 500/speak Victor \"Anne, hayır! Lütfen, açıklamama izin ver! Benim sebe-$7\"/speak Olivia \"Victor açıklanacak bir şey yok. Bunu senin iyiliğin için yapıyorum.$2\"/emote Victor 28/pause 500/move farmer 0 2 1/move farmer 5 0 0/pause 300/move Olivia 0 0 2/stopMusic/pause 200/emote Olivia 16/pause 200/speak Olivia \"!!!$7\"/pause 200/speed Victor 4/move Victor -1 0 2/speed Victor 4/move Victor 0 1 2/pause 250/speak Victor \"@!?$7\"/pause 600/speak Olivia \"Demek sen konuşmamızı dinliyordun!?$5\"/pause 1000/question fork0 \"#Victor'un kitaplarına bakmak için gelmiştim ve ikinizin tartıştığını duydum.\"/fork 2000003_Eavesdropping/end",
 
-		"2000003_Eavesdropping": "pause 500/move Victor 0 0 1/pause 500/speak Victor \"Mom. Please. Let me talk so you can understand my side of the story. At least give me that.$2\"/pause 500/move Olivia 0 0 3/pause 1000/emote Olivia 40/pause 500/move Olivia 0 0 2/pause 1000/move Olivia 0 0 3/pause 1200/speak Olivia \"Okay.$2\"/pause 750/question fork1 \"#Don't say anything#Listen to your mom and move to the city.\"/fork 2000003_VictorTalk/pause 500/move Victor 0 0 2/emote Victor 16/pause 400/move Olivia 0 0 2/pause 300/speak Victor \"!!!$7\"/pause 500/move Olivia 0 0 3/pause 800/move Olivia 0 0 2/pause 1000/move Olivia 0 0 3/pause 500/speak Olivia \"See, Victor? Even @ agrees it would be in your best interest to move to Zuzu City.$0#$b#This is the best path to get you out of this slump, honey.$0\"/pause 500/move Victor 0 0 0/pause 400/shake Victor 700/pause 700/speak Victor \"...$2\"/pause 1000/move Olivia 0 0 2/pause 750/speak Olivia \"Thank you for your input, @. Victor and I will continue discussing this matter. Alone. You may leave.$0\"/pause 500/emote Victor 28/pause 600/speed farmer 2/move farmer -6 0 3 true/pause 500/move Olivia 0 0 3 true/globalFade/viewport -1000 -1000/pause 800/friendship Victor -1250/end dialogue Victor \"Why did you agree with my mother about sending me to Zuzu City? It took me hours to talk her down.$2#$b#I'm not just wasting my life here. I'm starting an apprenticeship with a retired bridge builder in Grampleton.$0#$b#I thought you were my friend, but you hurt my feelings and betrayed my trust...$2#$e#Don't talk to me right now, @.$5#$e#%Victor is now ignoring you.\"",
+		"2000003_Eavesdropping": "pause 500/move Victor 0 0 1/pause 500/speak Victor \"Anne. Lütfen. Konuşmama izin verde hikayemin kendi tarafımı anlatayım. En azından bundan alıkoyma beni.$2\"/pause 500/move Olivia 0 0 3/pause 1000/emote Olivia 40/pause 500/move Olivia 0 0 2/pause 1000/move Olivia 0 0 3/pause 1200/speak Olivia \"Tamam.$2\"/pause 750/question fork1 \"#Hiçbir şey söylemeyeceğim#Anneni dinle ve şehre taşın.\"/fork 2000003_VictorTalk/pause 500/move Victor 0 0 2/emote Victor 16/pause 400/move Olivia 0 0 2/pause 300/speak Victor \"!!!$7\"/pause 500/move Olivia 0 0 3/pause 800/move Olivia 0 0 2/pause 1000/move Olivia 0 0 3/pause 500/speak Olivia \"Gördün mü, Victor? @ bile taşınmanın senin iç olabilecek en iyi durum olabileceğine katılıyor.$0#$b#Seni bu düşkünlükten kurtarabilecek en iyi yol bu, tatlım.$0\"/pause 500/move Victor 0 0 0/pause 400/shake Victor 700/pause 700/speak Victor \"...$2\"/pause 1000/move Olivia 0 0 2/pause 750/speak Olivia \"Düşüncen için teşekkürler, @. Victor ve ben bu konuyu konuşmaya devam edeceğiz. Yalnız. Çekilebilirsin.$0\"/pause 500/emote Victor 28/pause 600/speed farmer 2/move farmer -6 0 3 true/pause 500/move Olivia 0 0 3 true/globalFade/viewport -1000 -1000/pause 800/friendship Victor -1250/end dialogue Victor \"Neden annemin tarafını seçtim? Onu ikna etmem saatler sürdü.$2#$b#Ben burada sadece hayatımı boşa harcamıyorum. Grampleton'daki emekli bir köprü mühendisine çırak oldum.$0#$b#Arkadaşım olduğunu düşünmuüştüm, duygularımı incittin ve bana ihanet ettin...$2#$e#Benimle konuşma, @.$5#$e#%Victor seni görmezden geliyor.\"",
 		
-		"2000003_VictorTalk": "pause 1200/pause 400/showFrame Victor 43/playMusic musicboxsong/pause 1000/speak Victor \"Mom...$2\"/pause 600/showFrame Victor 4/pause 400/speak Victor \"Mom, I enjoyed what I studied in school.$0#$b#The reason I've turned down job offers is because I know exactly what I want to do with my life, and it doesn't involve internships in the city.$6\"/pause 1250/speak Victor \"I want to build and maintain bridges. Not just any bridges, but the bridges here in the valley and surrounding provinces.$3\"/pause 500/showFrame Victor 43/pause 600/speak Victor \"This was going to be a surprise. I didn't want to tell you until it was official but...$2\"/pause 100/emote Olivia 8/pause 200/showFrame Victor 4/pause 300/speak Victor \"I've been working closely with Kendra, the mayor of Grampleton, and their bridge engineer, Ralph. He recently retired.$3#$b#Ralph is responsible for constructing and managing the bridges in the region, including the ones here in Pelican town.$1\"/pause 150/emote Olivia 16/pause 200/speak Olivia \"Are you saying you...?$6\"/pause 500/speak Victor \"Yes. I'm an apprentice.$1#$b#Ralph is teaching me the ins and outs of bridge construction and maintenance. I've been waiting for a position like this to open up for a long time.$3\"/pause 300/speak Olivia \"Honey! This is incredible news! I wish you had told me sooner.$1\"/pause 400/showFrame Victor 43/pause 400/speak Victor \"I thought it'd be best to tell you when it was official so I didn't get your hopes up if it didn't happen.$2#$b#But I probably should have told you sooner, since you've been so worried about my future.$2\"/pause 400/showFrame Victor 4/pause 400/speak Victor \"Those notes in my diary are very old, from a time when I was feeling frustrated and lacking direction. Now I know what I want to do with my life.$6\"/pause 500/emote Olivia 40/pause 500/speak Olivia \"...$2\"/pause 650/speak Olivia \"I... I'm sorry for violating your privacy, honey. It was unfair to assume you were putting off work to keep living here.$2\"/pause 1250/speak Victor \"Part of that is true, mother. I don't want to move away from Stardew Valley. Departing from my friends and the valley would make me miserable.$6#$b#If I had moved to the city and gotten an office job, I'd be nothing but a cog in a machine, unable to chase my dreams.$2\"/pause 1100/speak Victor \"I feel like I can achieve so much more if I control my own destiny. And right now, working with Ralph, I can.$1\"/pause 300/speak Olivia \"Honey, I'm so proud of you!$1\"/pause 500/speak Victor \"Thank you, mother!$3\"/pause 400/globalFade/viewport -1000 -1000/pause 1000/message \"We celebrated Victor's internship with the finest aged Blue Moon Vineyard wine and exchanged laughs.\"/stopMusic/pause 1000/friendship Victor 50/end dialogue Victor \"Hi, @. I'm sorry you got caught between my mother and me. I didn't want to let anyone know about my apprenticeship until I knew it was for certain.$6#$b#Getting the internship doesn't mean my future is secure. I have a lot of learning and work ahead of me, but I'm happy to know which direction my life is heading.$3#$e#Thank you for being a good friend.$1\"",
+		"2000003_VictorTalk": "pause 1200/pause 400/showFrame Victor 43/playMusic musicboxsong/pause 1000/speak Victor \"Anne...$2\"/pause 600/showFrame Victor 4/pause 400/speak Victor \"Anne okuldaki branşımı sevdim.$0#$b#İş tekliflerini reddetmemin sebebi hayatımla tam olarak ne yapmak istediğimi biliyorum, ve bu hayat şeihrde staj içerimiyor.$6\"/pause 1250/speak Victor \"Ben köprü inşaatı ve bakımıyla ilgilenmek istiyorum. Herhangi bir köprü değil özellikle buradaki ve çevredeki yerlerin köprüleri.$3\"/pause 500/showFrame Victor 43/pause 600/speak Victor \"Bu sürpriz olacaktı. Resmi olana kadar söylemek istemedim ama...$2\"/pause 100/emote Olivia 8/pause 200/showFrame Victor 4/pause 300/speak Victor \"Kendra ile çalışıyorum kendileri Grampleton'ın muhtarıdır ve aynı şekilde Ralph o da Grampleton'un köprü mühendisi. Yakın zamanda emekli olmuş.$3#$b#Ralph bölgedeki köprülerin inşaatından ve bakımından sorumlu, buradakiler de dahil.$1\"/pause 150/emote Olivia 16/pause 200/speak Olivia \"Sen ne söylüyorun sen...?$6\"/pause 500/speak Victor \"Evet. Ben bir çırağım.$1#$b#Ralph bana köprü inşaatı ve bakımı hakkında her detayı öğretiyor. Böyle bir işi uzun bir zamandır bekliyordum.$3\"/pause 300/speak Olivia \"Tatlım! Bu çok güzel bir haber! Keşke daha önce söyleseydin.$1\"/pause 400/showFrame Victor 43/pause 400/speak Victor \"En iyisini resmi olunca söylemek olduğunu düşündüm belki olmazsa umutlarını yitirmeni istemedim.$2#$b#Ama sanırım daha önce söylemeliydim sonuçta geleceğim için çok endişeleniyorsun.$2\"/pause 400/showFrame Victor 4/pause 400/speak Victor \"Günlüğümdeki notlar çok eskiden. Hayatımla ne yapacağımı bilmediğim zamandan ama şu an ne yapmak istediğimi biliyorum.$6\"/pause 500/emote Olivia 40/pause 500/speak Olivia \"...$2\"/pause 650/speak Olivia \"Ben... özelini karıştığım için özür dilerim,bebeğim. Senin hakkında buradan taşınmayacak gibi bir tahmin yapmamalıydım.$2\"/pause 1250/speak Victor \"O kısım doğru, annecim. Vadiden taşınmak istemiyorum. Arkadaşlarımdan ve vadiden ayrılmak beni mahveder.$6#$b#Eğer şehre taşınsam ve bir ofis işine başlasam, Makinedeki bir çarktan farkım kalmaz, hayallerimi takip edemem.$2\"/pause 1100/speak Victor \"Eğer kendi kaderimi konrol edebilirsem daha çok iş başarabileceğime eminim ve artık yapabilirim.$1\"/pause 300/speak Olivia \"Tatlım, seninle gurur duyuyorum!$1\"/pause 500/speak Victor \"Eyvallah, canım anam!$3\"/pause 400/globalFade/viewport -1000 -1000/pause 1000/message \"Victor'un yeni işini en güzel Mavi Ay Üzümbağı şarapları kutladık.\"/stopMusic/pause 1000/friendship Victor 50/end dialogue Victor \"Selam, @. Annemle aramda kaldığın için üzgünüm. Kesin olana kadar işi bilmeni istemedim.$6#$b#Bu iş geleceğimin garanti altında olduğu anlamına gelmiyot . Öğrenmem gereken çok bilgi var ama artık hayatımı ne yönde şekillendireceğimi biliyorum.$3#$e#İyi bir arkadaş olduğun için teşekkür ederim.$1\"",
 	  }
     },
 	
@@ -3082,7 +3082,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-      "Sophia": "Ooo! A fairy stone!? I love these rocks so much!/577/That's sweet of you! Thanks!/220 221 232 237 240 -80 428 373 376 74 797 279 446/Oh... thanks./-75 -81 18 20 22 16 396 406 408 404 399 398 372 393 397/N-no! Get it away from me!/346 303 459 149 798 151 155 -4/Um. Thanks!/-18 -79 -2 -7 -26 -75 -80 72 446 348 395 613 634 635 636 637 638 724 459 402/"
+      "Sophia": "Ooo! Bir peri taşı!? Böyle taşları çok seviyorum!/577/Çok tatlısın! Teşekkürler!/220 221 232 237 240 -80 428 373 376 74 797 279 446/Oh... teşekkürler./-75 -81 18 20 22 16 396 406 408 404 399 398 372 393 397/H-hayır! Şunu benden uzak tut!/346 303 459 149 798 151 155 -4/Imm. Teşekkürler!/-18 -79 -2 -7 -26 -75 -80 72 446 348 395 613 634 635 636 637 638 724 459 402/"
       }
     },
 	
@@ -3175,8 +3175,8 @@
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "Sophia0": "This is the start of something wonderful.$4",
-        "Sophia1": "Um. Hey. I'll see you later, okay?$4"
+        "Sophia0": "Bu harika bir şeyin başlangıcı.$4",
+        "Sophia1": "Imm. Selam. sonra görüşürüz, tamam mı?$4"
       }
     },
 	
@@ -3242,17 +3242,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I can't believe they made a Prairie King movie... I hope it's good!"
+            "Text": "Prairie King'in filmini yaptıklarına inanamıyorum... Umarım güzeldir!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That's my cosplay!$9"
+            "Text": "Bu benim cosplayim!$9"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "The movie was so so great! Thanks for taking me!$1"
+            "Text": "Film çok çok çok güzeldi! Beni götürdüğün için teşekkür ederim!$1"
           }
         },
         "ID": "reaction_2"
@@ -3265,17 +3265,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I hope this movie is good! I think there's a cute character in it!$1"
+            "Text": "Umarım bu film güzeldir! Bence filmde tatlı karakterler olacak!$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ohh! That's interesting!$1"
+            "Text": "Hıı! İlginç!$1"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Raccoons are so so adorable!$1"
+            "Text": "Rakunlar çook tatlı!$1"
           }
         },
         "ID": "reaction_3"
@@ -3288,17 +3288,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Let's go get the good seats, @!$1"
+            "Text": "Hadi iyi koltuklar bulalım, @!$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Sophia 3000/pause 500/message \"Sophia is giggling!\"",
+            "Script": "/shake Sophia 3000/pause 500/message \"Sophia kıkırdıyor!\"",
             "Text": "Hehe!$9"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "What part was your favorite?$1"
+            "Text": "Hangi bölümünü sevdin?$1"
           }
         },
         "ID": "reaction_4"
@@ -3311,13 +3311,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, you! Thanks for inviting me, I love going to the movies.$1"
+            "Text": "Selam, @! Film izlemeyi çok severim. Beni davet ettiğin için teşekkür ederim.$1"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "There were some silly parts, but I liked it.$9"
+            "Text": "Saçma bölümleri vardı ama beğendim.$9"
           }
         },
         "ID": "reaction_5"
@@ -3330,17 +3330,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I-I don't know about this one. I'm just here for the snacks.$1"
+            "Text": "B-Bilmiyorum. Sadece atıştırmalıklar için buradayım.$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Mmm. A little boring...$2"
+            "Text": "Mmm. Biraz sıkıcı...$2"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I think I'd rate that a 5 out of 10.$0"
+            "Text": "Filme 10 üzerinden 5 verirdim.$0"
           }
         },
         "ID": "reaction_6"
@@ -3355,7 +3355,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Sophia": "I get nervous around large crowds of people...$2"
+        "Sophia": "Etrafta çok insan olduğunda geriliyorum...$2"
       }
     },
 	
@@ -3363,7 +3363,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Sophia": "Hey, you! Want to get some food with me?$4#$e#I already had a plate. This will be my second.$9"
+        "Sophia": "Selam @! Benimle beraber yemek ister misin?$4#$e#Zaten bir tabak yedim. Bu ikinci olacak.$9"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3375,7 +3375,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Sophia": "I'm here for the free cake.$1"
+        "Sophia": "Sadece pasta için buradayım.$1"
       }
     },
 
@@ -3383,7 +3383,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Sophia": "Hey, you!$9#$b#Want to eat lots and lots of food with me?$1#$e#D-don't ask me to dance. I get nervous.$2#$e#Um. Let's eat food instead and watch the others dance.$1#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing."
+        "Sophia": "Selam @!$9#$b#Benimle bol bol yemek yemek ister misin?$1#$e#D-dans edelim mi diye sorma. geriliyorum.$2#$e#Imm. Onun yerine yemek yiyelim ve diğerlerinin dansını izleyelim.$1#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor.#$e#%Sophia dans ederken rahat hissetmiyor."
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3395,7 +3395,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Sophia": "I added aged Blue Moon Wine for the adult pot!$9#$e#I hope the other ingredients people put in are tasty!$1"
+        "Sophia": "Yetişkinlerin çorbasına yaşlanmış Mavi Ay Şarabı ekledim!$9#$e#Umarım diğer insanlarının attığı şeyler de kalitelidir!$1"
       }
     },
 	
@@ -3403,7 +3403,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Sophia": "Yemekten sonra yüzmeye gitmek ister misin?$1#$e#Yeni bir bikini aldım.$4"
+        "Sophia": "Yemek yedikten sonra yüzmek ister misin?$1#$e#Yeni bikini aldım.$4"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3415,7 +3415,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Sophia": "Bu denizanaları çok tatlı!$1#$b#Her yıl onları izlemeyi çok seviyorum.$9",
+        "Sophia": "Denizanaları çok güzel!$1#$b#Her yıl onları izlemeye bayılıyorum.$9",
       }
     },
 	
@@ -3423,7 +3423,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Sophia": "Hey, you. See the faint glow out there?$4#$e#The moonlight jellyfish are coming to the shore!$9#$e#%You hold Sophia's hand. She smiles at you."
+        "Sophia": "Selam @. Şuradaki sönük parıltıyı görüyor musun?$4#$e#Denizanaları kıyıya geliyor!$9#$e#%Sophia'nın elini tuttun. Sana gülümsüyor."
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3435,7 +3435,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Sophia": "I'm presenting my best aged wine from Blue Moon Vineyard!$1#$e#I worked hard to make these!$9#$e#Oh. Um. So what's in your grange display?$1",
+        "Sophia": "Mavi Ay Üzüm Çiftliği'nin en iyi yıllanmış şarabını sunuyorum!$1#$e#Bunu yapmak için çok çalıştım!$9#$e#Oh. Imm. Peki tezgahında ne var?$1",
       }
     },
 	
@@ -3443,7 +3443,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Sophia": "We are competing against each other today.$1#$b#May the best one win!$3#$e#Oh. Um. I love you!$4#$b#Good luck!$9"
+        "Sophia": "Yakında birbirimizle yarışacağız.$1#$b#İyi olan kazansın!$3#$e#Ha. Imm. Seni seviyorum!$4#$b#İyi şanslar!$9"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3455,7 +3455,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Sophia": "I went into the maze and gave up.$2#$e#Why? Oh. I was hungry.$1#$e#Have you tried Pierre's spiced pumpkin cider?$9",
+        "Sophia": "Labirente girdim ama artık pes ediyorum.$2#$e#Neden mi? Iıı. Çünkü acıkmıştım.$1#$e#Pierre'nin baharatlı balkabağı şarabını denedin mi?$9",
       }
     },
 	
@@ -3463,7 +3463,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Sophia": "Hey, you. Getting food too?$1#$e#Hey! Um. Those monsters in the cages. Have you fought those before?$0#$e#You're so brave, my hero.$4"
+        "Sophia": "Selam. Sende mi yemek alıyorsun?$1#$e#Imm. Şu kafesteki canavarlara bak. Hiç bunlardan biriyle savaştın mı?$0#$e#Çok cesursun, kahramanım benim.$4"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3475,7 +3475,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Sophia": "Mmm. So pretty here.$9#$e#There's no food, but that's okay. I brought snacks.$1"
+        "Sophia": "Mmm. Burası çok güzel.$9#$e#Yemek yok ama olsun. Yanımda atıştırmalık getirmiştim zaten.$1"
       }
     },
 	
@@ -3483,7 +3483,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Sophia": "I want to build a snowman!$9#$b#Come on! Let's make one, silly.$1#$e#Aww. Okay. After the fishing contest then!$1"
+        "Sophia": "Kardan adam yapmak istiyorum!$9#$b#Hadi! Bir tane kardan adam yapalım şapşik.$1#$e#Aaa. Tamam. Balıkçılık yarışmasından sonra olsun!$1"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3495,7 +3495,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Sophia": "Who's a good boy!? You are!$9#$e#Did you get a present yet?$1"
+        "Sophia": "Kimmiş iyi çocuk!? Sensin!$9#$e#Hediyeni aldın mı?$1"
       }
     },
 	
@@ -3503,7 +3503,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Sophia": "Hey, you! I thought I'd pet Dusty for a little bit.$1#$b#He's Pelican Town's best boy!$9#$e#Oh. Um. I'll join you at a table soon. Save me a seat?$1"
+        "Sophia": "Selam! Dusty'i biraz sevmeyi düşünüyorum.$1#$b#O Pelikan Kasabasındaki en tatlı şey!$9#$e#Oh. Imm. Sana birazdan masada katılırım. Bana sandalye tut tamam mı?$1"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3514,7 +3514,7 @@
       "Action": "EditData",
       "Target": "Data/Events/BlueMoonVineyard",
       "Entries": {
-      "8185290/w sunny/c 1/t 600 1500/z winter/z fall/y 1/f Sophia 50":"kindadumbautumn/-500 -500/farmer 33 30 0 Sophia 34 20 1/animate Sophia false true 350 24 25/pause 1000/viewport 33 27 true/viewport move 0 -1 5000 true/skippable/move farmer 0 -6 0/pause 1200/stopAnimation Sophia/pause 500/move Sophia 0 0 2 true/pause 750/emote Sophia 16 true/jump Sophia/showFrame Sophia 29/pause 1200/faceDirection Sophia 1 true/pause 250/move Sophia 0 0 0 true/pause 200/speed Sophia 3/move Sophia 0 -1 1/speed Sophia 3/move Sophia 1 0 2/pause 250/showFrame Sophia 32/pause 200/shake Sophia 2000/pause 350/move farmer 0 -2 0 true/pause 200/speak Sophia \"!!!$2\"/pause 1500/showFrame Sophia 0/pause 1000/speak Sophia \"O-oh. @?$2#$b#It's just you?$0\"/pause 1000/move Sophia 0 0 3/pause 200/speed Sophia 1/move Sophia -2 0 2/pause 600/speak Sophia \"S-sorry. I get startled easily.$1\"/pause 1000/move Sophia 0 0 3/pause 800/move Sophia 0 0 2/pause 300/speak Sophia \"Um. Hey. You're kinda new to farming so...$2\"/pause 900/showFrame Sophia 32/pause 250/shake Sophia 600/pause 900/showFrame Sophia 0/pause 500/speak Sophia \"Um. I want to give you a device.$1#$b#Follow me to my storage chest!$9\"/globalFade/viewport -1000 -1000 true/warp farmer 25 17/warp Sophia 23 17/faceDirection Sophia 0 true/faceDirection farmer 3 true/viewport 24 17 true/pause 1200/shake Sophia 500/playSound openChest/pause 1600/playSound pickUpItem/pause 1100/move Sophia 0 0 1/pause 600/move Sophia 1 0 1/speak Sophia \"Here! It's a sprinkler![621]$1#$b#It'll automatically water adjacent crops every day.$1\"/pause 300/playSound reward/message \"You received a 'Quality Sprinkler'!\"/pause 800/speak Sophia \"Um. I have an order ledger in my cosplay room.$0#$b#If you need more, you can purchase sprinklers from me.$1\"/pause 500/end dialogue Sophia \"Oh. Um. Hello!$1#$b#How's the sprinkler? Does it still work?$0\"",
+      "8185290/w sunny/c 1/t 600 1500/z winter/z fall/y 1/f Sophia 50": "kindadumbautumn/-500 -500/farmer 33 30 0 Sophia 34 20 1/animate Sophia false true 350 24 25/pause 1000/viewport 33 27 true/viewport move 0 -1 5000 true/skippable/move farmer 0 -6 0/pause 1200/stopAnimation Sophia/pause 500/move Sophia 0 0 2 true/pause 750/emote Sophia 16 true/jump Sophia/showFrame Sophia 29/pause 1200/faceDirection Sophia 1 true/pause 250/move Sophia 0 0 0 true/pause 200/speed Sophia 3/move Sophia 0 -1 1/speed Sophia 3/move Sophia 1 0 2/pause 250/showFrame Sophia 32/pause 200/shake Sophia 2000/pause 350/move farmer 0 -2 0 true/pause 200/speak Sophia "!!!$2"/pause 1500/showFrame Sophia 0/pause 1000/speak Sophia "Aaa. @?$2#$b#Sadece sen miydin?$0"/pause 1000/move Sophia 0 0 3/pause 200/speed Sophia 1/move Sophia -2 0 2/pause 600/speak Sophia "Ü-üzgünüm. çok kolay korkarım.$1"/pause 1000/move Sophia 0 0 3/pause 800/move Sophia 0 0 2/pause 300/speak Sophia "Um. Hey. Çiftçilikte yeni gibisin bu yüzden...$2"/pause 900/showFrame Sophia 32/pause 250/shake Sophia 600/pause 900/showFrame Sophia 0/pause 500/speak Sophia "Iıı. Sana bir cihaz vereceğim.$1#$b#Beni sandığıma kadar takip et!$9"/globalFade/viewport -1000 -1000 true/warp farmer 25 17/warp Sophia 23 17/faceDirection Sophia 0 true/faceDirection farmer 3 true/viewport 24 17 true/pause 1200/shake Sophia 500/playSound openChest/pause 1600/playSound pickUpItem/pause 1100/move Sophia 0 0 1/pause 600/move Sophia 1 0 1/speak Sophia "Buyur! Bir fıskiye![621]$1#$b#Yakındaki It'll automatically water adjacent crops every day.$1"/pause 300/playSound reward/message "You received a 'Quality Sprinkler'!"/pause 800/speak Sophia "Um. I have an order ledger in my cosplay room.$0#$b#If you need more, you can purchase sprinklers from me.$1"/pause 500/end dialogue Sophia "Oh. Um. Hello!$1#$b#How's the sprinkler? Does it still work?$0"",
       }
     },
 
@@ -4831,7 +4831,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Apples": "child/polite/shy/neutral/null/non-datable/null/Other/null//Apples_WarpRoom 3 3/Apples"
+        "Apples": "child/polite/shy/neutral/null/non-datable/null/Other/null//Apples_WarpRoom 3 3/Elmacık"
         }
     },
 	
@@ -8434,7 +8434,7 @@
 		 "PelicanTown.54": "There's a lock on the garbage can.",
 		 "PelicanTown.55": "-PELICAN TOWN-^^-DATE: 04.17.19XX-^\"Built in recognition of Stardew Valley's Elegance.\"",
 		 "PelicanTown.56": "-In loving memory of Robert and Alice-",
-		 "PelicanTown.57": "You give Dusty many pets.",
+		 "PelicanTown.57": "Dusty'i seviyorsun.",
 		 "Beach.1": "This wreckage has been here for years.",
 		 "Beach.2": "\"S.S. GRANGER\"",
 		 "Beach.3": "\"W.R. MOLLY BLOOM\"",
